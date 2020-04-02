@@ -1,0 +1,13 @@
+venv
+.pyc
+.idea
+db.sqlite3
+venv/
+avaliacoes/api/__pycache__/
+avaliacoes/migrations/__pycache__/0002_avaliacao_data.cpython-37.pyc
+comentarios/api/__pycache__/
+enderecos/api/__pycache__/
+pontos_turisticos/__pycache__/urls.cpython-37.pyc
+core/api/__pycache__/viewsets.cpython-37.pyc
+comentarios/__pycache__/models.cpython-37.pyc
+avaliacoes/__pycache__/models.cpython-37.pyc
